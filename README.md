@@ -5,3 +5,4 @@ https://github.com/dasbego/migrated-repo/
 
 # Collaborators
 @dasbego
+@alan
