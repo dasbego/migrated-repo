@@ -1,0 +1,19 @@
+{
+  "name": "test-migration",
+  "version": "1.0.0",
+  "description": "New line modified Blocks jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dasbego@bitbucket.org/dasbego/test-migration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dasbego/test-migration#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
